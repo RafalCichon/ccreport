@@ -1,4 +1,4 @@
-# ccreport - code coverage report
+# ccreport - code coverage report for builds hosted on Azure DevOps
 
 ## Installation
 `pip install ccreport`
